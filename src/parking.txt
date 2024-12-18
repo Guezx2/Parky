@@ -1,0 +1,24 @@
+Sousse-park;2;Sousse;4200;1000;200;Residential;Open;0
+Zarzis-park;3;Zarzis;3800;2000;700;Commercial;Under_Maintenance;0
+Bizerte-park;4;Bizerte;4500;3200;150;Covered;Closed;0
+Kasserine-park;5;Kasserine;3100;2800;500;Public;Full;0
+Mahdia-park;6;Mahdia;4900;4600;800;Private;Under_Maintenance;0
+Beja-park;7;Béja;2300;400;600;Open-air;(null);0
+Tataouine-park;8;Tataouine;4000;3700;500;Disabled-accessible;Open;0
+Gafsa-park;9;Gafsa;4200;3800;300;Residential;Closed;0
+Nabeul-park;10;Nabeul;4600;4300;600;Commercial;Under_Maintenance;0
+Jendouba-park;11;Jendouba;3500;3200;100;Covered;Full;0
+Sfax-park;12;Sfax;4800;4500;400;Public;Open;0
+Ariana-park;13;Ariana;5000;4700;500;Private;Closed;0
+Kairouan-park;14;Kairouan;3900;3600;700;Open-air;Under_Maintenance;8260
+Tunis-park;15;Tunis;5100;4800;150;Disabled-accessible;Full;0
+Sidi Bouzid-park;16;Sidi Bouzid;4700;4400;100;Residential;Open;0
+Grombalia-park;17;Grombalia;4200;3900;100;Commercial;Closed;0
+El Kef-park;18;El Kef;4600;4300;200;Covered;Under_Maintenance;0
+Monastir-park;19;Monastir;4700;4400;600;Public;Full;0
+La Marsa-park;20;La Marsa;5000;4700;150;Private;Open;0
+Douz-park;21;Douz;5200;4900;100;Open-air;Closed;0
+Zaghouan-park;22;Zaghouan;4600;4300;250;Disabled-accessible;Under_Maintenance;0
+Kef-park;23;Kef;4300;4000;200;Residential;Full;0
+Tunis-park;24;Tunis;4800;4500;200;Commercial;Open;0
+Kébili-park;25;Kébili;3500;3200;300;Covered;Closed;0
